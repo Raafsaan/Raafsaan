@@ -51,6 +51,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/raafsaan/raafsaan/output/snake.svg" alt="Snake animation" />
+
 
 ###
